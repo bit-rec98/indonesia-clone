@@ -1,0 +1,26 @@
+/* Index.html */
+
+#index-header{
+    background-color: black;
+}
+
+#navbar{
+    position: sticky;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#carousel{
+    width: 100%;
+    padding: 100% 0;
+    background-image: url('../../public/img/index/background-buy.webp');
+    background-repeat: no-repeat;
+}
+
+/* .carousel-item{
+    
+} */
